@@ -1,8 +1,8 @@
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iagofelipe-DOT&theme=tokyonight&show_icons=true&count_private=true&custom_title=my%20code%20works,%20i%20don%27t%20know%20why%20please%20don%27t%20ask%20me%20how%20:P)](https://github.com/iagofelipe-DOT)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iagofelipe-DOT&theme=tokyonight&show_icons=true&count_private=true&custom_title=my%20code%20works,%20i%20don%27t%20know%20why%20,%20please%20don%27t%20ask%20me%20how%20:P)](https://github.com/iagofelipe-DOT)
 
 <p align="right">
   <a href="https://discord.com/users/753730313036759090">
-    <img src="https://lanyard.cnrad.dev/api/753730313036759090?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding...%20or%20playing%20something%20%28%EF%BF%A3o%EF%BF%A3%29%20.zZ&v=1" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/753730313036759090?theme=dark&bg=000000&animated=true&hideDiscrim=true&&hideProfile=true&borderRadius=10px&idleMessage=Probably%20coding...%20or%20playing%20something%20%28%EF%BF%A3o%EF%BF%A3%29%20.zZ&v=1" alt="Discord Presence" />
   </a>
 </p>
 
@@ -11,14 +11,15 @@
   Here are some ideas to get you started:
   - 🔭 I’m currently working on ...
 -->
-⠀                                                           - Currently learning Java w/ Springboot and CRM
+                                                           - Currently learning Java w/ Springboot and CRM
 <!-- 
   - 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about ...
 -->
-⠀
+
                                                             - Check out my portfolio! : https://felp.nekoweb.org/
                                                             - Pronouns: he/him
-  
+
+                                                            
   ⠀                                                 i <3 studying & trying out new tech
