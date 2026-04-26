@@ -19,11 +19,11 @@
 <p align= "center"> Currently learning Java w/ Springboot and CRM</p>
 
 <div align= "center">
-    <p align= "center"> Check out my portfolio!</p>
+    <a align= "center"> Check out my portfolio!</a>
     <a href= "https://felp.nekoweb.org/" align= "center">https://felp.nekoweb.org/</a>
 </div>
-
+<br>
 <p align= "center"> Pronouns: he/him </p>
 <hr>
                                                             
-  ⠀                                                <h5 align= "center">i <3 studying & trying out new tech<h5>
+  ⠀                                                <h6 align= "center">i <3 studying & trying out new tech</h6>
