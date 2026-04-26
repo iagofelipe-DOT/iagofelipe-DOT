@@ -1,6 +1,6 @@
-![my code works, i don't know why and please don't ask me how :P](https://github-readme-stats.vercel.app/api?username=iagofelipe-DOT&theme=tokyonight&show_icons=true&count_private=true "my code works, i don't know why and please don't ask me how :P")
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iagofelipe-DOT&theme=tokyonight&show_icons=true&count_private=true&custom_title=my%20code%20works,%20i%20don%27t%20know%20why%20and%20please%20don%27t%20ask%20me%20how%20:P)](https://github.com/iagofelipe-DOT)
 
-<p align="center">
+<p align="right">
   <a href="https://discord.com/users/753730313036759090">
     <img src="https://lanyard.cnrad.dev/api/753730313036759090?theme=dark&bg=000000&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding...%20or%20playing%20something%20%28%EF%BF%A3o%EF%BF%A3%29%20.zZ&v=1" alt="Discord Presence" />
   </a>
@@ -11,12 +11,13 @@
   Here are some ideas to get you started:
   - 🔭 I’m currently working on ...
 -->
-- I’m currently learning Java w/ Springboot and CRM
+- Currently learning Java w/ Springboot and CRM
 <!-- 
   - 👯 I’m looking to collaborate on ...
   - 🤔 I’m looking for help with ...
   - 💬 Ask me about ...
 -->
-- How to reach me: https://felp.nekoweb.org/
+- Check out my portfolio! : https://felp.nekoweb.org/
 - Pronouns: he/him
-- Fun fact: i LOVE studying & trying out new tech
+  
+    i <3 studying & trying out new tech
