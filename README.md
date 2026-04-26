@@ -17,9 +17,9 @@
 <hr>
 
 <p align= "center"> Currently learning Java w/ Springboot and CRM</p>
-
+<br>
 <div align= "center">
-    <a align= "center"> Check out my portfolio!</a>
+    <p align= "center"> Check out my portfolio!</p>
     <a href= "https://felp.nekoweb.org/" align= "center">https://felp.nekoweb.org/</a>
 </div>
 <br>
